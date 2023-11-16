@@ -1,2 +1,11 @@
-# ReactJS
- Desarrollo Web con Ract + JS
+# TP1 
+Nombre y Apellido: Julio César Shaya
+DNI: 23631166
+Comisión 126
+Grupo 9 
+
+Consigna
+El trabajo consiste en realizar una página que simula la captura de datos para realizar un “Boca de urnas”.
+La página debe ser lo mas parecida posible al ejemplo siguiente:
+Los contadores deben poder incrementar el contador cuando se pulsa el botón “+” y decrementar cuando pulsa el botón “-” (tener que cuenta que el contador no puede ser inferior a cero).
+Los contadores deben ser hecho usando reactjs en particular empleando jsx
