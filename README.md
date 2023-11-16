@@ -1,8 +1,10 @@
+# Argentina Programa 4.0 - Desarrollador Web con React JS
 # TP1 
-Nombre y Apellido: Julio César Shaya
-DNI: 23631166
-Comisión 126
-Grupo 9 
+## Comisión 126 
+|Grupo 9:|
+| :-------: |
+|Julio César Shaya|
+|DNI:23631166|
 
 Consigna
 El trabajo consiste en realizar una página que simula la captura de datos para realizar un “Boca de urnas”.
