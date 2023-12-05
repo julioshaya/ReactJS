@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  
+}
+
+main {
+  margin: 0 auto;
+  width: 400px;
+  background-color: blue;
+  margin-bottom: 5px; 
+}
+h1 {
+  font-size: 20px;
+  padding: 20px;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+}
+
+.logo {
+  height: 10em;
+  padding: 1.5em;
+  will-change: filter;
+  transition: filter 300ms;
+  
+}
+.logo:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
+.logo.react:hover {
+  filter: drop-shadow(0 0 2em #61dafbaa);
+}
+
+
