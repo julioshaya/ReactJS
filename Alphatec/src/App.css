@@ -4,23 +4,28 @@
   box-sizing: border-box;
   
 }
-
+div {
+  padding: 0px;
+  text-align: center;
+  margin-left: 60px;
+}
 main {
-  margin: 0 auto;
-  width: 400px;
-  background-color: blue;
+  margin: 10 auto;
+  width: 250px;
   margin-bottom: 5px; 
+  background-color:transparent;
 }
 h1 {
   font-size: 20px;
-  padding: 20px;
+  margin: auto 0;
+  padding: 10px;
   text-align: center;
   font-family: Arial, Helvetica, sans-serif;
   color: white;
 }
 
 .logo {
-  height: 10em;
+  height: 15em;
   padding: 1.5em;
   will-change: filter;
   transition: filter 300ms;

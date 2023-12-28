@@ -12,10 +12,9 @@ function App() {
           <img src={reactLogo} className="logo" alt="Alphatec" />
       </main>  
       <body>
-          <div>
-            <h1>Página en Construcción</h1>
-          </div>
-     
+            <div>
+              <h1>Página en Construcción</h1>
+            </div>
       </body>
    
     </>
